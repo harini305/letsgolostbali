@@ -1,0 +1,1106 @@
+[
+ {
+  "url": "https://www.letsgetlostbali.com/",
+  "sections": [
+   {
+    "i": 1,
+    "theme": "dark",
+    "bg": "#D5DAE8 rgb(213, 218, 232)",
+    "overlay": "#D5DAE8 rgb(213, 218, 232) op=0.36",
+    "heading": {
+     "tag": "H1",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "43.9px",
+     "lineHeight": "43.9px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 2,
+    "theme": "white",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": null,
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "26.08px",
+     "lineHeight": "33.8831px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "69.36px"
+    },
+    "link": null,
+    "button": {
+     "text": "Find Out More",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": {
+     "backgroundColor": "#000000 @0 rgba(0, 0, 0, 0)",
+     "borderRadius": "0px",
+     "boxShadow": "none"
+    }
+   },
+   {
+    "i": 3,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": null,
+    "heading": {
+     "tag": "H3",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "36.16px",
+     "lineHeight": "48.194px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": {
+     "text": "Book Online Session",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#F60606 rgb(246, 6, 6)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "0px 19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": null
+   },
+   {
+    "i": 4,
+    "theme": "light-bold",
+    "bg": "#DFE0E1 rgb(223, 224, 225)",
+    "overlay": null,
+    "heading": {
+     "tag": "H3",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "36.16px",
+     "lineHeight": "48.194px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": {
+     "text": "Our Philosophy",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#F60606 rgb(246, 6, 6)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "0px 19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": null
+   },
+   {
+    "i": 5,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": null,
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 6,
+    "theme": "black",
+    "bg": "#000000 rgb(0, 0, 0)",
+    "overlay": "#000000 rgb(0, 0, 0) op=0.41",
+    "heading": {
+     "tag": "H4",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "26.08px",
+     "lineHeight": "35.6357px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": null,
+    "link": null,
+    "button": null,
+    "card": null
+   }
+  ],
+  "header": {
+   "theme": "",
+   "pos": "absolute",
+   "bg": "#000000 @0 rgba(0, 0, 0, 0)",
+   "bgEl": "#000000 @0 rgba(0, 0, 0, 0)",
+   "height": 184.125,
+   "classes": "\n      \n        \n      \n      header theme-col--primary\n    "
+  },
+  "nav": {
+   "color": "#FFFFFF rgb(255, 255, 255)",
+   "fontFamily": "adelle-ultrathin",
+   "fontWeight": "100",
+   "fontSize": "17.68px",
+   "letterSpacing": "normal",
+   "textTransform": "none"
+  },
+  "folder": {
+   "box": {
+    "backgroundColor": "#000000 @0.38 rgba(0, 0, 0, 0.38)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "8.84px 17.68px"
+   },
+   "link": {
+    "color": "#FFFFFF rgb(255, 255, 255)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "17.68px"
+   }
+  },
+  "footer": {
+   "theme": "light",
+   "bg": "#DFE0E1 rgb(223, 224, 225)",
+   "p": {
+    "color": "#000000 rgb(0, 0, 0)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "24.4px",
+    "fontWeight": "100"
+   },
+   "a": {
+    "color": "#000000 rgb(0, 0, 0)"
+   }
+  },
+  "rootVars": [
+   "--white-hsl=0,0%,100%",
+   "--black-hsl=0,0%,0%",
+   "--accent-hsl=220,15.79%,96.27%",
+   "--lightAccent-hsl=210,3.23%,87.84%",
+   "--darkAccent-hsl=224.21,29.23%,87.25%",
+   "--safeLightAccent-hsl=220,15.79%,96.27%",
+   "--safeDarkAccent-hsl=0,0%,0%"
+  ],
+  "hover": {
+   "err": "locator.hover: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('.header-display-desktop .header-nav-folder-title').first()\u001b[22m\n\u001b[2m    - locator resolved to <button aria-expanded=\"false\" data-href=\"/teacher-trainings\" class=\"header-nav-folder-title\" aria-controls=\"teacher-trainings\" data-animation-role=\"header-element\">…</button>\u001b[22m\n\u001b[2m  - attempting hover action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible and stable\u001b[22m\n\u001b[2m      - element is visible and stable\u001b[22m\n\u001b[2m      - scrolling into view if needed\u001b[22m\n\u001b[2m      - done scrolling\u001b[22m\n\u001b[2m      - <iframe frameborder=\"0\" allow=\"clipboard-write\" src=\"https://assets.mailerlite.com/jsonp/988780/forms/snt8N8/content?v=1793154427&windowWidth=1440\"></iframe> intercepts pointer events\u001b[22m\n\u001b[2m    - retrying hover action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible and stable\u001b[22m\n\u001b[2m      - element is visible and stable\u001b[22m\n\u001b[2m      - scrolling into view if needed\u001b[22m\n\u001b[2m      - done scrolling\u001b[22m\n\u001b[2m      - <iframe frameborder=\"0\" allow=\"clipboard-write\" src=\"https://assets.mailerlite.com/jsonp/988780/forms/snt8N8/content?v=1793154427&windowWidth=1440\"></iframe> intercepts pointer events\u001b[22m\n\u001b[2m    - retrying hover action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    - waiting for element to be visible and stable\u001b[22m\n\u001b[2m    - element is not stable\u001b[22m\n\u001b[2m  53 × retrying hover action\u001b[22m\n\u001b[2m       - waiting 500ms\u001b[22m\n\u001b[2m       - waiting for element to be visible and stable\u001b[22m\n\u001b[2m       - element is visible and stable\u001b[22m\n\u001b[2m       - scrolling into view if needed\u001b[22m\n\u001b[2m       - done scrolling\u001b[22m\n\u001b[2m       - <iframe frameborder=\"0\" allow=\"clipboard-write\" src=\"https://assets.mailerlite.com/jsonp/988780/forms/snt8N8/content?v=1793154427&windowWidth=1440\"></iframe> intercepts pointer events\u001b[22m\n\u001b[2m  - retrying hover action\u001b[22m\n\u001b[2m    - waiting 500ms\u001b[22m\n"
+  }
+ },
+ {
+  "url": "https://www.letsgetlostbali.com/breathwork-instructor-training-bali-ubud-",
+  "sections": [
+   {
+    "i": 1,
+    "theme": "black",
+    "bg": "#000000 rgb(0, 0, 0)",
+    "overlay": "#000000 rgb(0, 0, 0) op=0.15",
+    "heading": null,
+    "p": null,
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 2,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": "#FFFFFF rgb(255, 255, 255) op=0.15",
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": {
+     "text": "BOOK A DISCOVERY CALL",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#F60606 rgb(246, 6, 6)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "0px 19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": null
+   },
+   {
+    "i": 3,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": "#FFFFFF rgb(255, 255, 255) op=0.15",
+    "heading": {
+     "tag": "H3",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "36.16px",
+     "lineHeight": "48.194px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 4,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": "#FFFFFF rgb(255, 255, 255) op=0.15",
+    "heading": {
+     "tag": "H3",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "36.16px",
+     "lineHeight": "48.194px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": {
+     "text": "JOIN APRIL 2027",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#F60606 rgb(246, 6, 6)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "0px 19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": null
+   },
+   {
+    "i": 5,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": "#FFFFFF rgb(255, 255, 255) op=0.15",
+    "heading": {
+     "tag": "H4",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "26.08px",
+     "lineHeight": "35.6357px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": {
+     "text": "BOOK A PRIVATE COURSE",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#F60606 rgb(246, 6, 6)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "0px 19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": null
+   },
+   {
+    "i": 6,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": "#FFFFFF rgb(255, 255, 255) op=0.15",
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 7,
+    "theme": "light-bold",
+    "bg": "#DFE0E1 rgb(223, 224, 225)",
+    "overlay": "#DFE0E1 rgb(223, 224, 225) op=0.3",
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "19.36px",
+     "lineHeight": "25.1525px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "69.36px"
+    },
+    "link": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "textDecorationLine": "underline"
+    },
+    "button": {
+     "text": "JOIN THE TRAINING",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#F60606 rgb(246, 6, 6)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": {
+     "backgroundColor": "#000000 @0 rgba(0, 0, 0, 0)",
+     "borderRadius": "0px",
+     "boxShadow": "none"
+    }
+   },
+   {
+    "i": 8,
+    "theme": "white",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": "#FFFFFF rgb(255, 255, 255) op=0.81",
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 9,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": "#FFFFFF rgb(255, 255, 255) op=0.15",
+    "heading": null,
+    "p": null,
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 10,
+    "theme": "white-bold",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": "#FFFFFF rgb(255, 255, 255) op=0.15",
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "78.2px",
+     "lineHeight": "78.2px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 11,
+    "theme": "white-bold",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": "#FFFFFF rgb(255, 255, 255) op=0.28",
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "24.4px",
+     "lineHeight": "36.6px"
+    },
+    "link": null,
+    "button": {
+     "text": "JOIN APRIL 2027 TRAINING",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#F60606 rgb(246, 6, 6)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "0px 19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": null
+   }
+  ],
+  "header": {
+   "theme": "",
+   "pos": "absolute",
+   "bg": "#000000 @0 rgba(0, 0, 0, 0)",
+   "bgEl": "#000000 @0 rgba(0, 0, 0, 0)",
+   "height": 184.125,
+   "classes": "\n      \n        \n      \n      header theme-col--primary\n    "
+  },
+  "nav": {
+   "color": "#FFFFFF rgb(255, 255, 255)",
+   "fontFamily": "adelle-ultrathin",
+   "fontWeight": "100",
+   "fontSize": "17.68px",
+   "letterSpacing": "normal",
+   "textTransform": "none"
+  },
+  "folder": {
+   "box": {
+    "backgroundColor": "#000000 @0.38 rgba(0, 0, 0, 0.38)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "8.84px 17.68px"
+   },
+   "link": {
+    "color": "#FFFFFF rgb(255, 255, 255)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "17.68px"
+   }
+  },
+  "footer": {
+   "theme": "light",
+   "bg": "#DFE0E1 rgb(223, 224, 225)",
+   "p": {
+    "color": "#000000 rgb(0, 0, 0)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "24.4px",
+    "fontWeight": "100"
+   },
+   "a": {
+    "color": "#000000 rgb(0, 0, 0)"
+   }
+  },
+  "rootVars": [
+   "--white-hsl=0,0%,100%",
+   "--black-hsl=0,0%,0%",
+   "--accent-hsl=220,15.79%,96.27%",
+   "--lightAccent-hsl=210,3.23%,87.84%",
+   "--darkAccent-hsl=224.21,29.23%,87.25%",
+   "--safeLightAccent-hsl=220,15.79%,96.27%",
+   "--safeDarkAccent-hsl=0,0%,0%"
+  ],
+  "hover": {
+   "folderOpen": "Teacher Trainings\n100hr Breathwork Instructor Training\nYin Yoga Teacher Training\nReiki Courses\nSpain (Coming 2027)",
+   "button": {
+    "before": [
+     "#F60606 rgb(246, 6, 6)",
+     "#FFFFFF rgb(255, 255, 255)",
+     "1",
+     "opacity 0.1s linear"
+    ],
+    "after": [
+     "#F60606 rgb(246, 6, 6)",
+     "#FFFFFF rgb(255, 255, 255)",
+     "0.8"
+    ]
+   }
+  }
+ },
+ {
+  "url": "https://www.letsgetlostbali.com/mens-circles",
+  "sections": [
+   {
+    "i": 1,
+    "theme": "black",
+    "bg": "#000000 rgb(0, 0, 0)",
+    "overlay": "#000000 rgb(0, 0, 0) op=0.15",
+    "heading": {
+     "tag": "H1",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "66.4px",
+     "lineHeight": "81.8048px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": null,
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 2,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": null,
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "textDecorationLine": "underline"
+    },
+    "button": {
+     "text": "Get in Touch",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#F60606 rgb(246, 6, 6)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "0px 19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": null
+   },
+   {
+    "i": 3,
+    "theme": "black",
+    "bg": "#000000 rgb(0, 0, 0)",
+    "overlay": "#000000 rgb(0, 0, 0) op=0.15",
+    "heading": null,
+    "p": null,
+    "link": null,
+    "button": null,
+    "card": null
+   }
+  ],
+  "header": {
+   "theme": "",
+   "pos": "absolute",
+   "bg": "#000000 @0 rgba(0, 0, 0, 0)",
+   "bgEl": "#000000 @0 rgba(0, 0, 0, 0)",
+   "height": 184.125,
+   "classes": "\n      \n        \n      \n      header theme-col--primary\n    "
+  },
+  "nav": {
+   "color": "#FFFFFF rgb(255, 255, 255)",
+   "fontFamily": "adelle-ultrathin",
+   "fontWeight": "100",
+   "fontSize": "17.68px",
+   "letterSpacing": "normal",
+   "textTransform": "none"
+  },
+  "folder": {
+   "box": {
+    "backgroundColor": "#000000 @0.38 rgba(0, 0, 0, 0.38)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "8.84px 17.68px"
+   },
+   "link": {
+    "color": "#FFFFFF rgb(255, 255, 255)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "17.68px"
+   }
+  },
+  "footer": {
+   "theme": "light",
+   "bg": "#DFE0E1 rgb(223, 224, 225)",
+   "p": {
+    "color": "#000000 rgb(0, 0, 0)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "24.4px",
+    "fontWeight": "100"
+   },
+   "a": {
+    "color": "#000000 rgb(0, 0, 0)"
+   }
+  },
+  "rootVars": [
+   "--white-hsl=0,0%,100%",
+   "--black-hsl=0,0%,0%",
+   "--accent-hsl=220,15.79%,96.27%",
+   "--lightAccent-hsl=210,3.23%,87.84%",
+   "--darkAccent-hsl=224.21,29.23%,87.25%",
+   "--safeLightAccent-hsl=220,15.79%,96.27%",
+   "--safeDarkAccent-hsl=0,0%,0%"
+  ],
+  "hover": {
+   "folderOpen": "Teacher Trainings\n100hr Breathwork Instructor Training\nYin Yoga Teacher Training\nReiki Courses\nSpain (Coming 2027)",
+   "button": {
+    "before": [
+     "#F60606 rgb(246, 6, 6)",
+     "#FFFFFF rgb(255, 255, 255)",
+     "1",
+     "opacity 0.1s linear"
+    ],
+    "after": [
+     "#F60606 rgb(246, 6, 6)",
+     "#FFFFFF rgb(255, 255, 255)",
+     "0.8"
+    ]
+   }
+  }
+ },
+ {
+  "url": "https://www.letsgetlostbali.com/contact",
+  "sections": [
+   {
+    "i": 1,
+    "theme": "dark",
+    "bg": "#D5DAE8 rgb(213, 218, 232)",
+    "overlay": "#D5DAE8 rgb(213, 218, 232) op=0.15",
+    "heading": {
+     "tag": "H1",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "66.4px",
+     "lineHeight": "81.8048px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": null,
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 2,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": null,
+    "heading": {
+     "tag": "H3",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "36.16px",
+     "lineHeight": "48.194px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 3,
+    "theme": "bright-inverse",
+    "bg": "#000000 rgb(0, 0, 0)",
+    "overlay": null,
+    "heading": {
+     "tag": "H2",
+     "color": "#F4F5F7 rgb(244, 245, 247)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#F4F5F7 rgb(244, 245, 247)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   }
+  ],
+  "header": {
+   "theme": "",
+   "pos": "absolute",
+   "bg": "#000000 @0 rgba(0, 0, 0, 0)",
+   "bgEl": "#000000 @0 rgba(0, 0, 0, 0)",
+   "height": 184.125,
+   "classes": "\n      \n        \n      \n      header theme-col--primary\n    "
+  },
+  "nav": {
+   "color": "#FFFFFF rgb(255, 255, 255)",
+   "fontFamily": "adelle-ultrathin",
+   "fontWeight": "100",
+   "fontSize": "17.68px",
+   "letterSpacing": "normal",
+   "textTransform": "none"
+  },
+  "folder": {
+   "box": {
+    "backgroundColor": "#000000 @0.38 rgba(0, 0, 0, 0.38)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "8.84px 17.68px"
+   },
+   "link": {
+    "color": "#FFFFFF rgb(255, 255, 255)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "17.68px"
+   }
+  },
+  "footer": {
+   "theme": "light",
+   "bg": "#DFE0E1 rgb(223, 224, 225)",
+   "p": {
+    "color": "#000000 rgb(0, 0, 0)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "24.4px",
+    "fontWeight": "100"
+   },
+   "a": {
+    "color": "#000000 rgb(0, 0, 0)"
+   }
+  },
+  "rootVars": [
+   "--white-hsl=0,0%,100%",
+   "--black-hsl=0,0%,0%",
+   "--accent-hsl=220,15.79%,96.27%",
+   "--lightAccent-hsl=210,3.23%,87.84%",
+   "--darkAccent-hsl=224.21,29.23%,87.25%",
+   "--safeLightAccent-hsl=220,15.79%,96.27%",
+   "--safeDarkAccent-hsl=0,0%,0%"
+  ],
+  "hover": {
+   "folderOpen": "Teacher Trainings\n100hr Breathwork Instructor Training\nYin Yoga Teacher Training\nReiki Courses\nSpain (Coming 2027)"
+  }
+ },
+ {
+  "url": "https://www.letsgetlostbali.com/about-us",
+  "sections": [
+   {
+    "i": 1,
+    "theme": "dark",
+    "bg": "#D5DAE8 rgb(213, 218, 232)",
+    "overlay": "#D5DAE8 rgb(213, 218, 232) op=0.15",
+    "heading": {
+     "tag": "H1",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "66.4px",
+     "lineHeight": "81.8048px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": null,
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 2,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": null,
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 3,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": null,
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": null,
+    "button": null,
+    "card": null
+   },
+   {
+    "i": 4,
+    "theme": "",
+    "bg": "#FFFFFF rgb(255, 255, 255)",
+    "overlay": null,
+    "heading": {
+     "tag": "H2",
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "46.24px",
+     "lineHeight": "60.075px",
+     "letterSpacing": "normal",
+     "textTransform": "none"
+    },
+    "p": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "fontFamily": "adelle-ultrathin",
+     "fontWeight": "100",
+     "fontSize": "17.68px",
+     "lineHeight": "26.52px"
+    },
+    "link": {
+     "color": "#000000 rgb(0, 0, 0)",
+     "textDecorationLine": "underline"
+    },
+    "button": {
+     "text": "HOME PAGE",
+     "color": "#FFFFFF rgb(255, 255, 255)",
+     "backgroundColor": "#F60606 rgb(246, 6, 6)",
+     "fontFamily": "Poppins",
+     "fontWeight": "500",
+     "fontSize": "14.272px",
+     "borderRadius": "6.4px",
+     "padding": "0px 19.2px",
+     "border": "0px solid #FFFFFF rgb(255, 255, 255)",
+     "textTransform": "none",
+     "letterSpacing": "0.28544px"
+    },
+    "card": null
+   }
+  ],
+  "header": {
+   "theme": "",
+   "pos": "absolute",
+   "bg": "#000000 @0 rgba(0, 0, 0, 0)",
+   "bgEl": "#000000 @0 rgba(0, 0, 0, 0)",
+   "height": 184.125,
+   "classes": "\n      \n        \n      \n      header theme-col--primary\n    "
+  },
+  "nav": {
+   "color": "#FFFFFF rgb(255, 255, 255)",
+   "fontFamily": "adelle-ultrathin",
+   "fontWeight": "100",
+   "fontSize": "17.68px",
+   "letterSpacing": "normal",
+   "textTransform": "none"
+  },
+  "folder": {
+   "box": {
+    "backgroundColor": "#000000 @0.38 rgba(0, 0, 0, 0.38)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "8.84px 17.68px"
+   },
+   "link": {
+    "color": "#FFFFFF rgb(255, 255, 255)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "17.68px"
+   }
+  },
+  "footer": {
+   "theme": "light",
+   "bg": "#DFE0E1 rgb(223, 224, 225)",
+   "p": {
+    "color": "#000000 rgb(0, 0, 0)",
+    "fontFamily": "adelle-ultrathin",
+    "fontSize": "24.4px",
+    "fontWeight": "100"
+   },
+   "a": {
+    "color": "#000000 rgb(0, 0, 0)"
+   }
+  },
+  "rootVars": [
+   "--white-hsl=0,0%,100%",
+   "--black-hsl=0,0%,0%",
+   "--accent-hsl=220,15.79%,96.27%",
+   "--lightAccent-hsl=210,3.23%,87.84%",
+   "--darkAccent-hsl=224.21,29.23%,87.25%",
+   "--safeLightAccent-hsl=220,15.79%,96.27%",
+   "--safeDarkAccent-hsl=0,0%,0%"
+  ],
+  "hover": {
+   "folderOpen": "Teacher Trainings\n100hr Breathwork Instructor Training\nYin Yoga Teacher Training\nReiki Courses\nSpain (Coming 2027)",
+   "button": {
+    "before": [
+     "#F60606 rgb(246, 6, 6)",
+     "#FFFFFF rgb(255, 255, 255)",
+     "1",
+     "opacity 0.1s linear"
+    ],
+    "after": [
+     "#F60606 rgb(246, 6, 6)",
+     "#FFFFFF rgb(255, 255, 255)",
+     "0.8"
+    ]
+   }
+  }
+ }
+]

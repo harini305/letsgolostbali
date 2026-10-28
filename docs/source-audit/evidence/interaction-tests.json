@@ -1,0 +1,232 @@
+{
+ "mobile.mailerlitePopupIframes": [
+  "https://assets.mailerlite.com/jsonp/988780/forms/snt8N8/content?v=1793174389&windowWidth=390"
+ ],
+ "mobile.menuErr": "locator.click: Element is not visible\nCall log:\n\u001b[2m  - waiting for locator('.header-burger-btn').first()\u001b[22m\n\u001b[2m    - locator resolved to <button data-test=\"header-burger\" class=\"header-burger-btn burger\">…</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    - scrolling into view if needed\u001b[22m\n",
+ "desktop.visibleIframesAndMailerlite": [
+  {
+   "tag": "DIV",
+   "id": "block-64eff0484d04d379079646ad",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":569.671875,\"width\":656.90625,\"height\":186.34375,\"top\":569.671875,\"right\":714.5,\"bottom\":756.015625,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":569.671875,\"width\":656.90625,\"height\":165.234375,\"top\":569.671875,\"right\":714.5,\"bottom\":734.90625,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "block-3c91c84b650eb880b490",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":1996.015625,\"width\":1324.8125,\"height\":186.34375,\"top\":1996.015625,\"right\":1382.40625,\"bottom\":2182.359375,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":1996.015625,\"width\":1324.8125,\"height\":159.734375,\"top\":1996.015625,\"right\":1382.40625,\"bottom\":2155.75,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "block-4563936ea7adc45f93e7",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":113.25,\"y\":2903.796875,\"width\":1213.5,\"height\":107.40625,\"top\":2903.796875,\"right\":1326.75,\"bottom\":3011.203125,\"left\":113.25}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":113.25,\"y\":2903.796875,\"width\":1213.5,\"height\":60.078125,\"top\":2903.796875,\"right\":1326.75,\"bottom\":2963.875,\"left\":113.25}"
+  },
+  {
+   "tag": "DIV",
+   "id": "block-49f61f47a59b14a1c0bf",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":168.90625,\"y\":3022.203125,\"width\":990.875,\"height\":67.9375,\"top\":3022.203125,\"right\":1159.78125,\"bottom\":3090.140625,\"left\":168.90625}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":168.90625,\"y\":3022.203125,\"width\":990.875,\"height\":53.03125,\"top\":3022.203125,\"right\":1159.78125,\"bottom\":3075.234375,\"left\":168.90625}"
+  },
+  {
+   "tag": "DIV",
+   "id": "block-yui_3_17_2_1_1756686522836_5914",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":224.5625,\"y\":3377.421875,\"width\":990.875,\"height\":232.390625,\"top\":3377.421875,\"right\":1215.4375,\"bottom\":3609.8125,\"left\":224.5625}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":224.5625,\"y\":3377.421875,\"width\":990.875,\"height\":232.390625,\"top\":3377.421875,\"right\":1215.4375,\"bottom\":3609.8125,\"left\":224.5625}"
+  },
+  {
+   "tag": "DIV",
+   "id": "block-64ef792401e327a91620de1c",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":4289.9375,\"width\":1324.8125,\"height\":738.90625,\"top\":4289.9375,\"right\":1382.40625,\"bottom\":5028.84375,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":4289.9375,\"width\":1324.8125,\"height\":649.90625,\"top\":4289.9375,\"right\":1382.40625,\"bottom\":4939.84375,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "block-65361caf7c11f831c5bb7b73",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":5274.8125,\"width\":1324.8125,\"height\":67.9375,\"top\":5274.8125,\"right\":1382.40625,\"bottom\":5342.75,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":5274.8125,\"width\":1324.8125,\"height\":60.078125,\"top\":5274.8125,\"right\":1382.40625,\"bottom\":5334.890625,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "block-yui_3_17_2_1_1710547640533_4538",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":113.25,\"y\":5787.90625,\"width\":1213.5,\"height\":225.8125,\"top\":5787.90625,\"right\":1326.75,\"bottom\":6013.71875,\"left\":113.25}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":113.25,\"y\":5787.90625,\"width\":1213.5,\"height\":186.25,\"top\":5787.90625,\"right\":1326.75,\"bottom\":5974.15625,\"left\":113.25}"
+  },
+  {
+   "tag": "DIV",
+   "id": "block-65361d2e42a4a343f738ba5b",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":6395.3125,\"width\":1324.8125,\"height\":146.875,\"top\":6395.3125,\"right\":1382.40625,\"bottom\":6542.1875,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":6427.3125,\"width\":1324.8125,\"height\":71.28125,\"top\":6427.3125,\"right\":1382.40625,\"bottom\":6498.59375,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "block-63d48d9ba0fb68a438cc6f6b",
+   "cls": "sqs-block website-component-block sqs-block-website-component sqs-block-html htm",
+   "src": "",
+   "rect": "{\"x\":57.59375,\"y\":7034.140625,\"width\":768.21875,\"height\":186.34375,\"top\":7034.140625,\"right\":825.8125,\"bottom\":7220.484375,\"left\":57.59375}"
+  },
+  {
+   "tag": "DIV",
+   "id": "",
+   "cls": "sqs-html-content",
+   "src": "",
+   "rect": "{\"x\":96.00469970703125,\"y\":7042.34765625,\"width\":691.3968505859375,\"height\":147.7265625,\"top\":7042.34765625,\"right\":787.4015502929688,\"bottom\":7190.07421875,\"left\":96.00469970703125}"
+  },
+  {
+   "tag": "IFRAME",
+   "id": "",
+   "cls": "",
+   "src": "https://assets.mailerlite.com/jsonp/988780/forms/snt8N8/content?v=1793174389&windowWidth=1440",
+   "rect": "{\"x\":0,\"y\":0,\"width\":1440,\"height\":900,\"top\":0,\"right\":1440,\"bottom\":900,\"left\":0}"
+  }
+ ],
+ "desktop.mailerliteScripts": [
+  "https://assets.mailerlite.com/js/universal.js",
+  "https://assets.mailerlite.com/js/universal.js",
+  "https://assets.mailerlite.com/js/universal.js",
+  "https://assets.mailerlite.com/jsonp/988780/forms?callback=ml.fn.renderPopupsAndPromotions",
+  "https://assets.mailerlite.com/jsonp/988780/forms/snt8N8?callback=ml.fn.showLatestPopup",
+  "https://assets.mailerlite.com/jsonp/988780/forms/166251467196336071/takel?cache=1793174659653496216230284387"
+ ],
+ "desktop.mailerlitePopupText": "Receive A Free Meditation\n\nSign up for our newsletters and receive a free audio Meditation\n\nJoin now",
+ "desktop.headerAfterScroll": {
+  "pos": "absolute",
+  "top": -1500,
+  "cls": " header theme-col--primary "
+ },
+ "faqs.structure": {
+  "dropdowns": 9,
+  "accordions": 0,
+  "answersHidden": 9,
+  "codeBlocks": 3,
+  "scriptsInline": []
+ },
+ "faqs.afterClickVisibleAnswers": 1,
+ "contact.forms": [
+  {
+   "html": 3868,
+   "fields": [
+    {
+     "type": "text",
+     "name": "fname",
+     "aria": "true",
+     "label": "Name"
+    },
+    {
+     "type": "text",
+     "name": "lname",
+     "aria": "true",
+     "label": "Name"
+    },
+    {
+     "type": "email",
+     "name": "",
+     "aria": "true",
+     "label": "Email\n(required)"
+    },
+    {
+     "type": "textarea",
+     "name": "",
+     "aria": "true",
+     "label": "Message\n(required)"
+    },
+    {
+     "type": "text",
+     "name": "message-yui_5bb88e14-7160-41c8-a7ea-d704e67eb8fa-field",
+     "aria": "false",
+     "label": ""
+    }
+   ],
+   "submit": "Send"
+  }
+ ],
+ "contact.iframes": [
+  "",
+  "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv&co=aHR0cHM6Ly93d3cubGV0c2dldGxvc3RiYWxpLmNvbTo0NDM.&hl=en&v=NhfdZHzre16wrc2m6BxEdu7J&size=invisible&anchor-ms=20000&execute-ms=30000&cb=dlh2bde44klf",
+  "",
+  "https://assets.mailerlite.com/jsonp/988780/forms/snt8N8/content?v=1793174389&windowWidth=1440"
+ ],
+ "contact.emptySubmitErrors": [],
+ "store.productControls": {
+  "variants": [],
+  "qty": true,
+  "addBtn": "",
+  "price": "Sale Price:\nUS$265.00 \nOriginal Price:\nUS$315.00"
+ },
+ "store.cartPage": {
+  "status": 200,
+  "text": "Skip to Content\nTeacher Trainings\nOfferings\nOnline\nAbout\nShopping Cart\n\nYou have nothing in your shopping cart.\n\nContinue Shopping\nBlog\nPrivacy Policy\nTerms & Conditions\nOur Teachers\n\nLet’s Get Lost\n\nwww.letsgetlostbali.com\n\nTel: +6282145612219 (WhatsApp)\n\nEmail(s): info@letsgetlostbali.com or manager@letsgetlostbali.com"
+ }
+}

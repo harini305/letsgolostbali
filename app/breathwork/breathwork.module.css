@@ -1,0 +1,205 @@
+/* Intro: title on the left, the three programmes as an index on the right. */
+.intro {
+  display: grid;
+  gap: var(--space-m);
+  padding-bottom: var(--space-m);
+}
+
+.introText {
+  display: grid;
+  gap: 1rem;
+  max-width: 40rem;
+}
+
+.introText p {
+  margin: 0;
+}
+
+.programmes ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.programmes li {
+  border-top: 1px solid var(--line);
+}
+
+.programmes li:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+.programmes a {
+  display: grid;
+  gap: 0.1rem;
+  padding-block: 0.7rem;
+  text-decoration: none;
+}
+
+.programmeTitle {
+  font-family: var(--font-head);
+  font-size: var(--step-2);
+  line-height: 1.2;
+}
+
+.programmes a:hover .programmeTitle {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
+.programmeMeta {
+  font-size: var(--text-small);
+  color: var(--ink-soft);
+}
+
+@media (min-width: 1024px) {
+  .intro {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    align-items: end;
+    gap: clamp(2.5rem, 6vw, 6rem);
+  }
+}
+
+.band {
+  height: clamp(200px, 26vw, 380px);
+}
+
+.band img {
+  object-position: 50% 28%;
+}
+
+/* In person: facts on the left, the course on the right. */
+.pull {
+  margin: 0 0 1rem;
+  font-family: var(--font-head);
+  font-size: var(--step-3);
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.columns {
+  display: grid;
+  gap: 1.25rem 2rem;
+}
+
+.listTitle {
+  margin-bottom: 0.75rem;
+  font-family: var(--font-body);
+  font-size: var(--step-0);
+  font-weight: 600;
+}
+
+@media (min-width: 640px) {
+  .columns {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Film and teachers share a row inside the scrolling column. */
+.meet {
+  display: grid;
+  gap: var(--space-m);
+}
+
+@media (min-width: 1200px) {
+  .meet {
+    grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+    gap: 2rem;
+    align-items: start;
+  }
+
+  .meet ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Online */
+.online {
+  background: var(--linen);
+}
+
+.onlineGrid {
+  display: grid;
+  gap: var(--space-m);
+}
+
+.onlineText {
+  display: grid;
+  gap: 1rem;
+  align-content: start;
+  max-width: 40rem;
+}
+
+.onlineText p {
+  margin: 0;
+}
+
+.onlineImages {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.onlineImages > div {
+  aspect-ratio: 1;
+}
+
+.onlineImages .onlineMain {
+  grid-column: 1 / -1;
+  aspect-ratio: 4 / 3;
+}
+
+@media (min-width: 1024px) {
+  .onlineGrid {
+    grid-template-columns: minmax(0, 6fr) minmax(0, 6fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+
+  .onlineImages .onlineMain {
+    aspect-ratio: 16 / 10;
+  }
+}
+
+/* Mentorship */
+.mentorImage {
+  aspect-ratio: 3 / 2;
+}
+
+@media (min-width: 1024px) {
+  .mentorImage {
+    aspect-ratio: 2 / 1;
+  }
+}
+
+.options {
+  display: grid;
+  gap: 1.25rem 2rem;
+  margin: 0;
+}
+
+.options > div {
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--line);
+}
+
+.options dt {
+  font-family: var(--font-head);
+  font-size: var(--step-2);
+  line-height: 1.2;
+  margin-bottom: 0.35rem;
+}
+
+.options dd {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.74);
+}
+
+@media (min-width: 640px) {
+  .options {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+

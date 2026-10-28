@@ -1,0 +1,408 @@
+{
+  "hero-corridor": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "breath-group": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "breath-alicia": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800,
+      2400
+    ]
+  },
+  "teacher-brendan": {
+    "width": 1536,
+    "height": 2048,
+    "widths": [
+      480,
+      800,
+      1200,
+      1536
+    ]
+  },
+  "teacher-andrea": {
+    "width": 768,
+    "height": 856,
+    "widths": [
+      480,
+      768
+    ]
+  },
+  "online-graduates": {
+    "width": 1280,
+    "height": 960,
+    "widths": [
+      480,
+      800,
+      1200,
+      1280
+    ]
+  },
+  "founders-circle": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "yin-mandala": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800,
+      2400
+    ]
+  },
+  "yin-petals": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "yin-class": {
+    "width": 2500,
+    "height": 1591,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "yin-assist": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "reiki-session": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "reiki-table": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "circle-fire": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "circle-embrace": {
+    "width": 2500,
+    "height": 3750,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "centre-corridor": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "centre-spring": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "centre-showers": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "centre-pond": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "centre-land": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "reiki-tattoo": {
+    "width": 1414,
+    "height": 2000,
+    "widths": [
+      480,
+      800,
+      1200,
+      1414
+    ]
+  },
+  "reiki-crystals": {
+    "width": 1414,
+    "height": 2000,
+    "widths": [
+      480,
+      800,
+      1200,
+      1414
+    ]
+  },
+  "bodywork-grass": {
+    "width": 1414,
+    "height": 2000,
+    "widths": [
+      480,
+      800,
+      1200,
+      1414
+    ]
+  },
+  "meditate-buddha": {
+    "width": 1414,
+    "height": 2000,
+    "widths": [
+      480,
+      800,
+      1200,
+      1414
+    ]
+  },
+  "reiki-face": {
+    "width": 1414,
+    "height": 2000,
+    "widths": [
+      480,
+      800,
+      1200,
+      1414
+    ]
+  },
+  "reiki-hands": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "reiki-scan": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "students-shala": {
+    "width": 1200,
+    "height": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ]
+  },
+  "breath-rest": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800,
+      2400
+    ]
+  },
+  "breath-hall": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "breath-hug": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "mentor-anthony": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "online-certificate": {
+    "width": 960,
+    "height": 1280,
+    "widths": [
+      480,
+      800,
+      960
+    ]
+  },
+  "yin-lunge": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "yin-porch": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "circle-huddle": {
+    "width": 2500,
+    "height": 2000,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "circle-hands": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "centre-koi": {
+    "width": 2500,
+    "height": 1667,
+    "widths": [
+      480,
+      800,
+      1200,
+      1800
+    ]
+  },
+  "portrait-anthony": {
+    "width": 1080,
+    "height": 1350,
+    "widths": [
+      480,
+      800,
+      1080
+    ]
+  },
+  "portrait-alicia": {
+    "width": 1080,
+    "height": 1350,
+    "widths": [
+      480,
+      800,
+      1080
+    ]
+  },
+  "portrait-rena": {
+    "width": 1080,
+    "height": 1350,
+    "widths": [
+      480,
+      800,
+      1080
+    ]
+  }
+}

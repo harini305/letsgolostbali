@@ -1,0 +1,351 @@
+.intro {
+  display: grid;
+  gap: var(--space-s);
+  padding-bottom: var(--space-m);
+}
+
+.intro .lead {
+  max-width: 40rem;
+  margin: 0;
+}
+
+@media (min-width: 1024px) {
+  .intro {
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: end;
+  }
+}
+
+/* One large photograph beside two smaller ones. */
+.mosaic {
+  padding-top: var(--space-m);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.mosaic > div:first-child {
+  grid-column: 1 / -1;
+  aspect-ratio: 3 / 2;
+}
+
+.mosaic > div:not(:first-child) {
+  aspect-ratio: 1;
+}
+
+@media (min-width: 768px) {
+  .mosaic {
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: repeat(2, clamp(170px, 19vw, 250px));
+    gap: 12px;
+  }
+
+  .mosaic > div:first-child {
+    grid-column: 1;
+    grid-row: 1 / span 2;
+    aspect-ratio: auto;
+  }
+
+  .mosaic > div:not(:first-child) {
+    aspect-ratio: auto;
+  }
+}
+
+/* Story */
+.story {
+  display: grid;
+  gap: var(--space-m);
+}
+
+.storyText {
+  max-width: 40rem;
+}
+
+.pull {
+  margin: 0;
+}
+
+.pull p {
+  font-family: var(--font-head);
+  font-size: var(--step-3);
+  font-weight: 300;
+  line-height: 1.25;
+}
+
+@media (min-width: 1024px) {
+  .story {
+    grid-template-columns: minmax(0, 6fr) minmax(0, 5fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+}
+
+/* Values */
+.valuesBand {
+  background: var(--paper);
+}
+
+.values {
+  margin: 0;
+  display: grid;
+  gap: 1.25rem 2rem;
+  align-content: start;
+}
+
+.values > div {
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--line);
+}
+
+.values dt {
+  font-family: var(--font-head);
+  font-size: var(--step-2);
+  line-height: 1.2;
+  margin-bottom: 0.3rem;
+}
+
+.values dd {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+@media (min-width: 640px) {
+  .values {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+
+
+/* Purpose */
+.purpose {
+  display: grid;
+  gap: var(--space-m);
+}
+
+.purpose h2 {
+  margin-bottom: 0.75rem;
+}
+
+.purpose p {
+  max-width: 34rem;
+  margin: 0;
+}
+
+.truths {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.truths li {
+  padding-block: 0.85rem;
+  border-top: 1px solid var(--line);
+  font-family: var(--font-head);
+  font-size: var(--step-2);
+  font-weight: 300;
+  line-height: 1.3;
+}
+
+.truths li:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+@media (min-width: 1024px) {
+  .purpose {
+    grid-template-columns: minmax(0, 4fr) minmax(0, 8fr);
+    gap: clamp(2.5rem, 5vw, 5rem);
+    align-items: start;
+  }
+}
+
+/* Philosophy and the land */
+.pillars {
+  display: grid;
+  gap: 1.5rem 2rem;
+}
+
+.pillars > div {
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--line);
+}
+
+.pillars h3 {
+  margin-bottom: 0.5rem;
+}
+
+.pillars p {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+@media (min-width: 900px) {
+  .pillars {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: clamp(1.5rem, 3vw, 3rem);
+  }
+}
+
+.land {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.land figure {
+  margin: 0;
+}
+
+.land :global(.frame) {
+  aspect-ratio: 4 / 3;
+}
+
+.land figcaption {
+  margin-top: 0.5rem;
+  font-size: var(--text-small);
+  color: var(--ink-soft);
+}
+
+@media (min-width: 640px) {
+  .land {
+    gap: clamp(12px, 3vw, 3rem);
+  }
+}
+
+@media (max-width: 479px) {
+  .land {
+    grid-template-columns: 1fr;
+  }
+
+  .land :global(.frame) {
+    aspect-ratio: 16 / 9;
+  }
+}
+
+/* Teachers */
+.teachersBand {
+  background: var(--paper);
+}
+
+.founders {
+  display: grid;
+  gap: var(--space-m);
+}
+
+.founder {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+  gap: clamp(1rem, 3vw, 2rem);
+  align-items: stretch;
+}
+
+/* The portrait stretches to the height of the bio beside it. */
+.founderPhoto {
+  min-height: 16rem;
+}
+
+.founderPhoto img {
+  object-position: 50% 25%;
+}
+
+.founder h3 {
+  font-size: var(--step-3);
+  font-weight: 300;
+}
+
+.role {
+  margin: 0.3rem 0 0.75rem;
+  font-size: var(--text-small);
+  font-weight: 600;
+  color: var(--ink-soft);
+}
+
+.founder p {
+  margin-top: 0;
+}
+
+.bioLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.25rem;
+  font-weight: 600;
+}
+
+@media (max-width: 479px) {
+  .founder {
+    grid-template-columns: 1fr;
+  }
+
+  .founderPhoto {
+    aspect-ratio: 4 / 5;
+    max-width: 16rem;
+    min-height: 0;
+  }
+}
+
+
+
+.guests {
+  display: grid;
+  gap: 1.5rem 2rem;
+}
+
+.guest {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 0.6rem 1rem;
+  align-items: center;
+  /* Cards stretch to equal height; keep their content packed at the top so rows line up. */
+  align-content: start;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+}
+
+.guestPhoto {
+  aspect-ratio: 1;
+}
+
+.guestPhoto img {
+  object-position: 50% 22%;
+}
+
+.guest h3 {
+  font-size: var(--step-1);
+  font-weight: 400;
+}
+
+.guest .role {
+  margin: 0.15rem 0 0;
+}
+
+.guestBio {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+@media (min-width: 768px) {
+  .guests {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.closing {
+  background: var(--white);
+  border-top: 1px solid var(--line);
+}
+
+.closingInner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem 2rem;
+}
+
+.closingInner p {
+  margin: 0;
+  font-family: var(--font-head);
+  font-size: var(--step-2);
+}

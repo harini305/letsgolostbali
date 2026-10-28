@@ -1,0 +1,234 @@
+/* Full-bleed photographic hero with the title set low over a legibility scrim. */
+.hero {
+  position: relative;
+  height: clamp(400px, 64svh, 640px);
+  display: flex;
+  align-items: flex-end;
+  color: var(--white);
+  background: var(--ink);
+}
+
+.hero img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 45%;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(to top, rgba(10, 12, 10, 0.72) 0%, rgba(10, 12, 10, 0.25) 45%, rgba(10, 12, 10, 0) 70%);
+}
+
+.heroText {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  gap: 0.75rem;
+  padding-bottom: calc(var(--space-m) + var(--tear));
+}
+
+.heroText h1 {
+  max-width: 14ch;
+  font-size: var(--step-5);
+  line-height: 1.04;
+}
+
+.heroText p {
+  margin: 0;
+  font-size: var(--step-1);
+  font-weight: 500;
+}
+
+/* Intro */
+.intro {
+  display: grid;
+  gap: var(--space-s);
+}
+
+.statement {
+  margin: 0;
+  font-family: var(--font-head);
+  font-size: var(--step-3);
+  font-weight: 300;
+  line-height: 1.25;
+}
+
+.introBody {
+  display: grid;
+  gap: 1.1rem;
+  justify-items: start;
+  max-width: 36rem;
+}
+
+.introBody p {
+  margin: 0;
+}
+
+@media (min-width: 1024px) {
+  .intro {
+    grid-template-columns: minmax(0, 6fr) minmax(0, 5fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+
+  .introBody {
+    padding-top: 0.4rem;
+  }
+}
+
+/* Key details on the sage tint from the newer training graphics. */
+.detailsBand {
+  background: var(--sage-mist);
+  padding-block: var(--space-l);
+}
+
+.detailsGrid {
+  display: grid;
+  gap: var(--space-m);
+}
+
+.detailsGrid h2 {
+  margin-bottom: 1.25rem;
+}
+
+.facts > div {
+  border-color: var(--line);
+}
+
+.detailsImages {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.detailsImages > div {
+  aspect-ratio: 1;
+}
+
+.detailsImages > div:first-child {
+  grid-column: 1 / -1;
+  aspect-ratio: 16 / 10;
+}
+
+@media (min-width: 1024px) {
+  .detailsGrid {
+    grid-template-columns: minmax(0, 6fr) minmax(0, 6fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+}
+
+/* Curriculum: four short groups in a row on wide screens. */
+.curriculum {
+  margin: 0;
+  display: grid;
+  gap: 1.25rem 2rem;
+}
+
+.curriculum > div {
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--line);
+}
+
+.curriculum dt {
+  font-family: var(--font-head);
+  font-size: var(--step-2);
+  line-height: 1.2;
+  margin-bottom: 0.4rem;
+}
+
+.curriculum dd {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+@media (min-width: 640px) {
+  .curriculum {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+
+
+/* Day schedule beside the teachers */
+.dayBand {
+  background: var(--paper);
+}
+
+.dayGrid {
+  display: grid;
+  gap: var(--space-m);
+}
+
+.dayTitle {
+  margin-bottom: 1rem;
+}
+
+.schedule {
+  margin: 0;
+}
+
+.schedule > div {
+  display: grid;
+  grid-template-columns: 8.5rem 1fr;
+  gap: 1rem;
+  padding-block: 0.6rem;
+  border-top: 1px solid var(--line);
+}
+
+.schedule > div:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+.schedule dt {
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-soft);
+}
+
+.schedule dd {
+  margin: 0;
+}
+
+.note {
+  margin-top: 1rem;
+  font-size: var(--text-small);
+}
+
+@media (min-width: 1024px) {
+  .dayGrid {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+
+  .dayGrid ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.closing {
+  display: grid;
+  gap: 1.25rem 2rem;
+  justify-items: start;
+}
+
+.closing h2 {
+  margin-bottom: 0.5rem;
+}
+
+.closing p {
+  margin: 0;
+}
+
+@media (min-width: 768px) {
+  .closing {
+    grid-template-columns: 1fr auto;
+    align-items: center;
+  }
+}

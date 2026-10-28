@@ -1,0 +1,189 @@
+/* Small screens: tabs, then the photo, then the details. */
+.explorer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-m);
+}
+
+.side {
+  display: contents;
+}
+
+.tabs {
+  order: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+}
+
+.stage {
+  order: 2;
+  aspect-ratio: 4 / 3;
+  rotate: -1deg;
+}
+
+.copy {
+  order: 3;
+}
+
+.tab {
+  position: relative;
+  flex: none;
+  padding: 0 0 0.5rem;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  background: none;
+  color: var(--ink-soft);
+  font-family: var(--font-head);
+  font-size: var(--step-2);
+  font-weight: 300;
+  cursor: pointer;
+  transition: color 0.3s var(--ease);
+}
+
+.tab::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 2px;
+  background: var(--red-button);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.45s var(--ease);
+}
+
+.tab[aria-selected='true'] {
+  color: var(--ink);
+}
+
+.tab[aria-selected='true']::after {
+  transform: scaleX(1);
+}
+
+.tab:hover {
+  color: var(--ink);
+}
+
+.stageInner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.layer {
+  position: absolute;
+  inset: 0;
+}
+
+.layer img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.copy {
+  display: grid;
+  gap: 0.85rem;
+  justify-items: start;
+  align-content: start;
+}
+
+.copy h3 {
+  font-size: var(--step-3);
+  font-weight: 340;
+}
+
+.copy p {
+  margin: 0;
+}
+
+.meta {
+  font-weight: 600;
+}
+
+.text {
+  color: var(--ink-soft);
+  max-width: 32rem;
+}
+
+.links {
+  list-style: none;
+  margin: 0.15rem 0 0.4rem;
+  padding: 0;
+  width: 100%;
+  max-width: 26rem;
+}
+
+.links li {
+  border-top: 1px solid var(--line);
+}
+
+.links li:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+.links a {
+  display: flex;
+  justify-content: space-between;
+  padding-block: 0.5rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.links a::after {
+  content: '→';
+  transition: transform 0.3s var(--ease);
+}
+
+.links a:hover::after {
+  transform: translateX(4px);
+}
+
+/* Desktop: tabs and details fill the left column from the top; the photo fills the right. */
+@media (min-width: 1024px) {
+  .explorer {
+    display: grid;
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    gap: clamp(2.5rem, 5vw, 5rem);
+    align-items: start;
+  }
+
+  .side {
+    display: grid;
+    gap: var(--space-m);
+    align-content: start;
+  }
+
+  .tabs {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0 1.5rem;
+  }
+
+  .tab {
+    padding: 0.7rem 0;
+    text-align: left;
+    font-size: clamp(1.6rem, 1.1rem + 1vw, 2.2rem);
+    line-height: 1.1;
+  }
+
+  .copy {
+    padding-top: 0.25rem;
+  }
+
+  /* A fixed shape, so switching tabs never changes the section's height. */
+  .stage {
+    aspect-ratio: 6 / 5;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tab,
+  .tab::after,
+  .links a::after {
+    transition: none;
+  }
+}

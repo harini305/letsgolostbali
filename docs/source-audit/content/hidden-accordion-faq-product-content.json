@@ -1,0 +1,381 @@
+{
+ "/faqs": {
+  "accordions": [],
+  "dropdowns": [
+   {
+    "q": "How do I sign up for a workshop, retreat, or event?",
+    "a": "You can sign up online. No need to sign up for our men’s circles! Just show up."
+   },
+   {
+    "q": "Where is the the centre located?",
+    "a": "The Centre is located in Petulu- a ten minute drive north of Ubud on the beautiful island of Bali, Indonesia."
+   },
+   {
+    "q": "How large is EC?",
+    "a": "The Centre has about 10 are (1000 m2) of covered building space, including a comfortable meeting space and a yoga shala. It also has 5 are (500 m2) of outdoor garden space including sunny seating areas and an extensive pond. Our communal spaces easily accommodate 30 people, with additional space for activities like Qigong, breathwork, yoga, and meditation."
+   },
+   {
+    "q": "What materials will you have for me to use at the Centre?",
+    "a": "All yoga equipment including blocks, mats, blankets, and bolsters will be provided. Please reach out if there are other materials you require for your event."
+   },
+   {
+    "q": "How will LGL support me in hosting a retreat?",
+    "a": "Expect all needed resources and our hands-on support in organising, planning and selling your retreat, so you’re never alone. Specifically, we will help you with: Booking a space to accommodate your guests’ sleeping arrangements. Booking a caterer. Promoting your event. Accepting booking payments. Trust us to treat your clients' with love and care, so that they can come home to themselves."
+   },
+   {
+    "q": "How will LGL help me promote my event?",
+    "a": "We will advertise your event on our website and social media platforms at no extra cost."
+   },
+   {
+    "q": "Can LGL help create a simple booking process for my guests if I don’t have a website?",
+    "a": "Yes! We can create a web page and booking system through our site for a 15% fee of each booking made through our system."
+   },
+   {
+    "q": "Does LGL have space to accommodate retreat guests?",
+    "a": "Our centre has one luxury villa. There are no accommodation spaces on site for retreat guests. Instead, EC invites retreat hosts to stay on-site for the duration of their retreat and guests to support the Balinese by staying in nearby locally-owned accommodation options. We have compiled a list of recommended guesthouses and hotels to support any budget. Please contact us for our detailed recommendation list of nearby accommodations. Retreat hosts are welcome to organize their preferred accommodation option, or, for a small fee, EC staff can organize the guest accommodations for the hosts."
+   },
+   {
+    "q": "Does the centre provide meals for its retreat guests?",
+    "a": "LGL has a small kitchen to help prepare food brought in, we instead aim to support local Indonesian caterers in and around Ubud. Please contact us for our detailed recommendation list of nearby caterers. Retreat hosts are welcome to organize their preferred catering option, or, for a small fee, EC staff can organize catering for the hosts."
+   }
+  ],
+  "codeBlocks": [
+   "<div class=\"sqs-block-content\">\n  \n\n<div class=\"sqs-code-container\" data-localized=\"{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globa",
+   "<div class=\"sqs-block-content\">\n  \n\n<div class=\"sqs-code-container\" data-localized=\"{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globa",
+   "<div class=\"sqs-block-content\">\n  \n\n<div class=\"sqs-code-container\" data-localized=\"{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globa"
+  ],
+  "product": null,
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/sustainability": {
+  "accordions": [
+   {
+    "q": "Harnessing",
+    "a": "Harnessing the sun’s heat to supply our showers and baths with beautifully steamy hot water to relax and cleanse our bodies."
+   },
+   {
+    "q": "Rain",
+    "a": "The rain runoff (from our gutters and underground piping) utilizes the force of gravity which creates movement within our natural pool to ensure a healthy water ecosystem for the aquatic life making this their home."
+   },
+   {
+    "q": "Reusability",
+    "a": "Wastewater is naturally filtered through a worm septic tank and earth filtration system to recycle the water for reuse on the plant life and pond health"
+   }
+  ],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/reiki-courses": {
+  "accordions": [
+   {
+    "q": "Who",
+    "a": "Beginners and Novices: If you are new to Reiki, this program provides a welcoming entry point, guiding you through the fundamentals and empowering you to harness the healing energy. Healing Enthusiasts: For those passionate about holistic well-being and self-healing, this training offers tools and techniques to enhance your personal healing journey. Healthcare Professionals: If you are a healthcare practitioner looking to complement your existing skills with holistic approaches, Reiki can be a valuable addition to your toolkit. Yoga Instructors: Yoga instructors seeking to expand their offerings and provide additional healing modalities to their students can benefit from incorporating Reiki into their practice. Anyone Seeking Personal Growth: Whether you're on a quest for personal growth, stress reduction, or a deeper spiritual connection, Reiki Level I & II provides a transformative path toward achieving these goals. Those Exploring Energy Healing: If you are curious about energy healing and its potential, this program offers a comprehensive introduction, demystifying the principles of Reiki. Aspiring Reiki Masters: Individuals drawn to the power of healing energy who wish to deepen their understanding and embark on the journey toward Reiki Mastery. No matter where you are on your journey, if you're drawn to the transformative power of healing energy and eager to explore the depths of your own potential, our Reiki Level I & II Training, including the Reiki Master Level, welcomes you with open arms."
+   },
+   {
+    "q": "Reiki Level 1: Foundation and Self-Healing",
+    "a": "Building the Foundation:Introduction to Reiki: Discover the origins and principles of Reiki, and learn about the energy that underlies this healing art.History and Lineage: Explore the history of Reiki and connect with the lineage that has passed down these ancient teachings.Understanding Energy and Chakras: Delve into the world of energy and the chakra system, gaining insights into how they influence our well-being.Self-Healing Techniques: Experience the power of self-healing with Reiki through practical techniques and guided sessions.Reiki Attunement for Level 1: Undergo a special initiation to open your channels to the healing energy of Reiki.Nurturing Your Healing Journey:Channeling Reiki Energy: Learn how to channel Reiki energy for healing yourself and others.Hand Positions for Self-Treatment: Understand the specific hand positions used for self-healing and practice them.The Importance of Intention: Discover how intention plays a crucial role in Reiki healing and how to set your intentions effectively.Ethics and Guidelines: Explore the ethical considerations and guidelines for practicing Reiki with integrity.Practical Exercises and Case Studies: Apply your newfound knowledge through practical exercises and real-life case studies.Upon completing Level 1, you will have established a strong foundation in Reiki, enabling you to harness this powerful healing energy for your own well-being and personal growth."
+   },
+   {
+    "q": "Reiki Level 2: Deepening and Beyond",
+    "a": "Deepening Your Connection:Review of Level 1: Refresh your understanding of Level 1 concepts and techniques, ensuring a solid foundation for your journey.Introduction to Reiki Symbols: Explore the significance of Reiki symbols and how they enhance the energy flow.Distance Healing: Unlock the potential of distance healing and discover its various applications.Mental and Emotional Healing: Dive into the techniques for mental and emotional healing with Reiki.Reiki Attunement for Level 2: Receive a special attunement to empower you with the Level 2 Reiki symbols.Advanced Techniques and Practical Application:Deepening Your Connection with Reiki Energy: Strengthen your connection with the healing energy of Reiki.Practicing with Symbols: Master the use of symbols in your healing sessions, amplifying their effectiveness.Working with Clients: Gain insights into working with clients and addressing specific issues or ailments.Incorporating Reiki into Daily Life: Learn how to seamlessly integrate Reiki into your daily routine for personal growth and well-being.Advanced Techniques and Case Studies: Explore advanced techniques and real-life case studies to enhance your practical skills.Level 2 takes your Reiki practice to the next level, empowering you to bring healing and balance to a broader range of situations and individuals. It's a transformative experience that deepens your understanding of Reiki and its applications, both for self-healing and in helping others."
+   },
+   {
+    "q": "Reiki Master Level Training Program: Mastery and Beyond",
+    "a": "Deepening Your Mastery:Review of Reiki Levels 1 & 2: Reinforce your understanding of the foundational concepts and techniques, ensuring a robust foundation for your continued journey.Introduction to Reiki Master Symbols: Explore the profound significance of Reiki Master symbols and understand how they elevate the energy flow to a new level of mastery.Unlocking Distance Healing: Discover the potential of distance healing and explore the various applications that expand your healing capabilities beyond physical proximity.Techniques for Mental and Emotional Healing: Dive into advanced techniques designed for mental and emotional healing with Reiki, empowering you to address intricate aspects of well-being.Reiki Attunement for Mastery: Receive a special attunement, a sacred initiation that infuses you with the transformative power of the Master symbols, further aligning you with the Reiki energy.Advanced Techniques and Teaching Skills:Deepening Your Connection with Reiki Energy: Strengthen your connection with the profound healing energy of Reiki, reaching new depths in your practice and enhancing your ability to channel energy.Mastering Symbolic Practices: Elevate your healing sessions by mastering the art of using symbols, amplifying their effectiveness and transformative impact on both yourself and those you work with.Working with Clients on a Deeper Level: Gain valuable insights into working with clients, addressing specific issues, and fostering a deeper level of healing, both physically and spiritually.Integrating Reiki into Daily Life: Learn how to seamlessly integrate Reiki into your daily routine, fostering personal growth, balance, and overall well-being as you embody the principles of Reiki in your everyday life.Advanced Techniques and Case Studies: Explore advanced techniques through real-life case studies, honing your practical skills and gaining confidence in your abilities as a Reiki Master.Upon completion of the Reiki Master Level Training, you will receive:Reiki Master/Teacher Degree Certificate: Symbolizing your elevated mastery and commitment to the art of healing.Comprehensive Reiki Master/Teacher Manual: A valuable resource for ongoing study and reference, providing in-depth insights into the Master Level teachings.Ongoing Support and Community: Connect with a supportive community of fellow Reiki practitioners and access continuous support as you continue your journey as a Reiki Master."
+   },
+   {
+    "q": "How",
+    "a": "Click here, or use the booking form at the bottom of the page."
+   }
+  ],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/our-teachers": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/meditations": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/spain": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/contact": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [],
+  "categories": [],
+  "maps": [
+   null
+  ],
+  "mailerliteEmbeds": []
+ },
+ "/store": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [
+   {
+    "title": "100 Hour Breathwork Teaining",
+    "price": "",
+    "href": "/store/p/100-hour-breathwork-teaining",
+    "status": ""
+   },
+   {
+    "title": "6 Month Online Breathwork Teacher Training",
+    "price": "",
+    "href": "/store/p/6-month-online-breathwork-teacher-training",
+    "status": "Sale"
+   },
+   {
+    "title": "Gift Voucher",
+    "price": "",
+    "href": "/store/p/gift-voucher",
+    "status": ""
+   },
+   {
+    "title": "Reiki Master/Teacher Training",
+    "price": "",
+    "href": "/store/p/reiki-level-1-g6rr3-flxph",
+    "status": "Sale"
+   },
+   {
+    "title": "Reiki Level 2",
+    "price": "",
+    "href": "/store/p/reiki-level-1-g6rr3",
+    "status": "Sale"
+   },
+   {
+    "title": "Reiki Level 1",
+    "price": "",
+    "href": "/store/p/reiki-level-1",
+    "status": "Sale"
+   }
+  ],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/store/courses": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [
+   {
+    "title": "Reiki Master/Teacher Training",
+    "price": "",
+    "href": "/store/p/reiki-level-1-g6rr3-flxph",
+    "status": "Sale"
+   },
+   {
+    "title": "Reiki Level 2",
+    "price": "",
+    "href": "/store/p/reiki-level-1-g6rr3",
+    "status": "Sale"
+   },
+   {
+    "title": "Reiki Level 1",
+    "price": "",
+    "href": "/store/p/reiki-level-1",
+    "status": "Sale"
+   }
+  ],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/store/gift-vouchers": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [
+   {
+    "title": "Gift Voucher",
+    "price": "",
+    "href": "/store/p/gift-voucher",
+    "status": ""
+   }
+  ],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/store/class-packages": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": null,
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/store/p/reiki-level-1": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": {
+   "title": "Reiki Level 1",
+   "price": "Sale Price: US$265.00 Original Price: US$315.00",
+   "excerpt": "Reiki Level 1Reiki level 1 is the perfect introduction to Reiki for beginners and those looking to become confident Reiki practitioners. At the end of your Reiki Level 1 training, you will be certified to give Reiki to yourself and others.What’s included:Definition of ReikiHistory of ReikiReiki lineageReiki principlesChakras TheoryTraditional hand positions: self-treatment, seated treatment, and treatment for othersThe 21-day cleansing processGiving Reiki treatmentsGrounding and cleansing techniquesVisualization and meditation techniquesHands-on practical sessionReiki 1 Manual to study withQ&AUpon completion of the course, you will receive a First Degree Reiki Certificate as well as ongoing support and advice.",
+   "variants": [],
+   "button": "Add To Cart Added!",
+   "more": "",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/1711969574653-I9MZW7MQLGLUFKEE3TJQ/6.png",
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/1711969574653-I9MZW7MQLGLUFKEE3TJQ/6.png"
+   ]
+  },
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/store/p/reiki-level-1-g6rr3": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": {
+   "title": "Reiki Level 2",
+   "price": "Sale Price: US$455.00 Original Price: US$504.00",
+   "excerpt": "Reiki Level 2Reiki level 2 builds on your knowledge from Reiki level 1 and allows you to go deeper into your Reiki healing journey. You will gain a broader range of techniques and connect with a more incredible Reiki energy, giving you enhanced healing abilities.What’s included:Questions and Answers from your experiences with ReikiReiki 2 attunementsReiki 2 symbols – learning to draw and useOther uses of the symbolsDistant healing techniquesEmpowering and healing events (past and future)Traditional hand positions: self-treatment, seated treatment, and treatment for others.Hands-on practical session Practicing Reiki ProfessionallyGrounding and cleansing techniquesVisualization and meditation techniquesReiki 2 Manual to study withQ & AUpon completion of the course, you will receive a Second Degree Reiki Certificate as well as ongoing support and advice.",
+   "variants": [],
+   "button": "Add To Cart Added!",
+   "more": "",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/b7c19bd7-2a14-4c9e-8843-3f73812b9cf6/2.png",
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/b7c19bd7-2a14-4c9e-8843-3f73812b9cf6/2.png"
+   ]
+  },
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/store/p/reiki-level-1-g6rr3-flxph": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": {
+   "title": "Reiki Master/Teacher Training",
+   "price": "Sale Price: US$705.00 Original Price: US$755.00",
+   "excerpt": "Reiki Level Master/TeacherThis course is your guide to taking the next steps in your lifelong journey to the Reiki Master Teacher level. You’ll gain a far more profound understanding of Reiki and how you can develop your daily practice and commitment to spiritual development. You’ll also learn how to prepare a Reiki teacher training course and help others.What’s included:Receiving an authentic, individual Reiki Master AttunementInitiation into Reiki Master symbolsMastering the elements of holistic healingConnecting with your Higher Self and high-level spiritual guidesTechniques for raising your energy levelsAdvanced Reiki techniquesHow to give Reiki Attunements with plenty of guided practiceHow to teach all levels of the Usui Reiki system (Reiki 1,2, Master & Teacher level)How to design and deliver a successful training program.Reiki Master/Teacher Manual to study withQ & AUpon completion of the course, you will receive a Master/Teacher Degree Reiki Certificate and ongoing support and advice.",
+   "variants": [],
+   "button": "Add To Cart Added!",
+   "more": "",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/108dd1c1-f0f9-4bf5-a9b8-cdf043afb1f0/3.png",
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/108dd1c1-f0f9-4bf5-a9b8-cdf043afb1f0/3.png"
+   ]
+  },
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/store/p/100-hour-breathwork-teaining": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": {
+   "title": "100 Hour Breathwork Teaining",
+   "price": "US$2,445.00",
+   "excerpt": "9-days in-person training, Location Amed, Bali",
+   "variants": [],
+   "button": "Frequency: One time purchase US$2,445.00 Subscribe US$2,445.00 Every month • For 4 payments Add To Cart Added!",
+   "more": "",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/a66f48b5-0830-4ece-9530-e7c508aadaf8/DSC03390.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/a66f48b5-0830-4ece-9530-e7c508aadaf8/DSC03390.jpg"
+   ]
+  },
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/store/p/6-month-online-breathwork-teacher-training": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": {
+   "title": "6 Month Online Breathwork Teacher Training",
+   "price": "Sale Price: US$2,000.00 Original Price: US$2,500.00",
+   "excerpt": "The 6-Month Online Breathwork Teacher Training Programme is a transformational journey designed to deepen your personal healing, elevate your understanding of the breath, and equip you with the skills to confidently lead others through profound breathwork experiences—online or in person.",
+   "variants": [],
+   "button": "Frequency: One time purchase US$2,000.00 Subscribe US$2,000.00 Every month • For 6 payments Add To Cart Added!",
+   "more": "",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/c95d3783-055a-495f-bd12-0b62974b8caa/Untitled+design+%285%29.png",
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/c95d3783-055a-495f-bd12-0b62974b8caa/Untitled+design+%285%29.png"
+   ]
+  },
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ },
+ "/store/p/gift-voucher": {
+  "accordions": [],
+  "dropdowns": [],
+  "codeBlocks": [],
+  "product": {
+   "title": "Gift Voucher",
+   "price": "from US$25.00",
+   "excerpt": "Can be used towards all of our classes, events, workshops and courses.",
+   "variants": [
+    "Value: Select Value US$25.00 US$50.00 US$75.00 US$100.00 US$125.00 US$150.00 US$175.00 US$200.00",
+    "Select Value US$25.00 US$50.00 US$75.00 US$100.00 US$125.00 US$150.00 US$175.00 US$200.00"
+   ],
+   "button": "Purchase Added!",
+   "more": "",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/1711970125352-Q04J98OXF62XXP0TPCLS/pixlr-image-generator-d48a18fe-3ce0-47a1-9326-b5bf65d3e54a.png",
+    "https://images.squarespace-cdn.com/content/v1/5fb63e84f95ce03b8d429fee/1711970125352-Q04J98OXF62XXP0TPCLS/pixlr-image-generator-d48a18fe-3ce0-47a1-9326-b5bf65d3e54a.png"
+   ]
+  },
+  "grid": [],
+  "categories": [],
+  "maps": [],
+  "mailerliteEmbeds": []
+ }
+}

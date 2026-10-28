@@ -1,0 +1,312 @@
+[
+ {
+  "category": "Courses",
+  "name": "Reiki Package Deal",
+  "type": "class",
+  "durationMin": 480,
+  "price": "0.00",
+  "classSize": 20,
+  "paymentRequired": false,
+  "description": "Package price NOTE: Select the date on the calendar (Only for admin purposes), and then select your course date."
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call: Practitioner / Mentorship Training",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call: Mentorship",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call Rebirthing Retreat",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call Breathwork Training",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call Online Breathwork Training",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call Solis Mens Group",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call Solis Gathering",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call 100 HR Online Breathwork Training",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call Reiki Training",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Discovery Call",
+  "name": "Discovery Call Yin Yoga Training",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Mentoring",
+  "name": "Mentoring Call",
+  "type": "service",
+  "durationMin": 60,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Mentoring",
+  "name": "Mentoring Package",
+  "type": "service",
+  "durationMin": 60,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Mentoring",
+  "name": "Breathwork 1-1 Initial Discovery Call",
+  "type": "service",
+  "durationMin": 30,
+  "price": "0.00",
+  "classSize": null,
+  "paymentRequired": false,
+  "description": ""
+ },
+ {
+  "category": "Online Class",
+  "name": "Online Yoga Class (60minute)",
+  "type": "service",
+  "durationMin": 60,
+  "price": "1,200,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": ""
+ },
+ {
+  "category": "Online Class",
+  "name": "Online Breathwork Class (30minute)",
+  "type": "service",
+  "durationMin": 30,
+  "price": "600,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": ""
+ },
+ {
+  "category": "Online Class",
+  "name": "Online Breathwork Class (60minute)",
+  "type": "service",
+  "durationMin": 60,
+  "price": "900,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": ""
+ },
+ {
+  "category": "Online Class",
+  "name": "Online Reiki Class (60minute)",
+  "type": "service",
+  "durationMin": 60,
+  "price": "1,200,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": ""
+ },
+ {
+  "category": "Personal Program",
+  "name": "Personal Yoga 3-day Program",
+  "type": "service",
+  "durationMin": 60,
+  "price": "8,600,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": ""
+ },
+ {
+  "category": "Personal Program",
+  "name": "Personal Yoga 5-day Program",
+  "type": "service",
+  "durationMin": 1,
+  "price": "13,200,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": ""
+ },
+ {
+  "category": "Personal Program",
+  "name": "Personal Breathwork 3-day Program",
+  "type": "service",
+  "durationMin": 1,
+  "price": "8,600,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": ""
+ },
+ {
+  "category": "Personal Program",
+  "name": "Personal Breathwork 5-day Program",
+  "type": "service",
+  "durationMin": 1,
+  "price": "13,200,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": ""
+ },
+ {
+  "category": "Private Breathwork",
+  "name": "Private Breathwork Session (90 minutes)",
+  "type": "service",
+  "durationMin": 90,
+  "price": "1,650,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": "During this healing breathwork session of 90 minutes, we go on a journey of discovery through using multiple breathing techniques. Price per person, please add an extra 'add-ons' to your booking for extra person(s)"
+ },
+ {
+  "category": "Private Breathwork",
+  "name": "Private Breathwork Session (120 minutes)",
+  "type": "service",
+  "durationMin": 120,
+  "price": "2,000,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": "During this breathwork session of 120 minutes, we go on a journey of discovery through breathing using multiple breathing techniques. Price per person, please add an extra 'add-on' to your booking for extra person(s)"
+ },
+ {
+  "category": "Private Craniosacral",
+  "name": "Private Craniosacral Therapy Session (60 minutes)",
+  "type": "service",
+  "durationMin": 60,
+  "price": "1,300,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": "Location: Let’s Get Lost, Ubud, Bali. Details: Pre-booking is required for private"
+ },
+ {
+  "category": "Private Craniosacral",
+  "name": "Private Craniosacral Therapy Session (90 minutes)",
+  "type": "service",
+  "durationMin": 90,
+  "price": "1,850,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": "Location: Let’s Get Lost, Ubud, Bali. Details: Pre-booking is required for private"
+ },
+ {
+  "category": "Private Reiki",
+  "name": "Private Reiki Session (60 minutes)",
+  "type": "service",
+  "durationMin": 60,
+  "price": "1,300,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": "Location: Let’s Get Lost, Ubud, Bali. Details: Pre-booking is required for private"
+ },
+ {
+  "category": "Private Reiki",
+  "name": "Private Reiki Session (90 minutes)",
+  "type": "service",
+  "durationMin": 90,
+  "price": "1,850,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": "Location: Let’s Get Lost, Ubud, Bali. Details: Pre-booking is required for private"
+ },
+ {
+  "category": "Private Yoga",
+  "name": "Private Yoga Session (60 minutes)",
+  "type": "service",
+  "durationMin": 60,
+  "price": "1,300,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": "Location: Let’s Get Lost, Ubud, Bali. Details: Pre-booking is required for private"
+ },
+ {
+  "category": "Private Yoga",
+  "name": "Private Yoga Session (90 minutes)",
+  "type": "service",
+  "durationMin": 90,
+  "price": "1,850,000.00",
+  "classSize": null,
+  "paymentRequired": true,
+  "description": "Location: Let’s Get Lost, Ubud, Bali. Details: Pre-booking is required for private"
+ },
+ {
+  "category": "Trainings",
+  "name": "100 hr Breathwork Teacher Training",
+  "type": "class",
+  "durationMin": 180,
+  "price": "41,000,000.00",
+  "classSize": 20,
+  "paymentRequired": true,
+  "description": "March 6th - March 14th 2026 June 5th - June 13th 2026 March 5th - March 13th 2027"
+ }
+]

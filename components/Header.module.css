@@ -1,0 +1,285 @@
+/* The header bar is ink so the white-only logo is always visible. The logo sits in a tab that hangs
+   below the bar at the top of the page and folds into the bar once the page scrolls. */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  color: var(--white);
+}
+
+.skip {
+  position: absolute;
+  left: var(--gutter);
+  top: -100px;
+  z-index: 60;
+  padding: 0.6rem 1rem;
+  background: var(--white);
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.skip:focus {
+  top: 0.5rem;
+}
+
+.bar {
+  position: relative;
+  height: var(--header-h);
+  background: var(--ink);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-inline: var(--gutter);
+}
+
+.logo {
+  position: absolute;
+  top: 0;
+  left: var(--gutter);
+  display: block;
+  background: var(--ink);
+  padding: 14px 16px 16px;
+  transition: padding 0.35s var(--ease);
+}
+
+.logo img {
+  display: block;
+  height: var(--logo-h);
+  width: auto;
+  transition: height 0.35s var(--ease);
+}
+
+.scrolled .logo {
+  padding-block: 8px;
+}
+
+.scrolled .logo img {
+  height: calc(var(--header-h) - 16px);
+}
+
+/* Desktop navigation */
+.desktopNav {
+  display: none;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  gap: clamp(1.25rem, 2.2vw, 2.25rem);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  position: relative;
+}
+
+.split {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.15rem;
+}
+
+.link {
+  display: inline-block;
+  padding-block: 0.5rem;
+  font-size: var(--text-nav);
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: var(--white);
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0 1px;
+  background-position: 0 calc(100% - 0.3rem);
+  background-repeat: no-repeat;
+  transition: background-size 0.3s var(--ease);
+}
+
+.link:hover,
+.link[aria-current='page'] {
+  background-size: 100% 1px;
+}
+
+.toggle {
+  display: inline-grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--white);
+  cursor: pointer;
+}
+
+.toggle svg {
+  transition: transform 0.25s var(--ease);
+}
+
+.toggle[aria-expanded='true'] svg {
+  transform: rotate(180deg);
+}
+
+.toggle:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.panel {
+  position: absolute;
+  top: 100%;
+  left: -1rem;
+  min-width: 15.5rem;
+  margin: 0;
+  /* Padding-top bridges the gap to the bar so hovering down into the panel keeps it open. */
+  padding: 0.9rem 0 0.6rem;
+  list-style: none;
+  background: var(--ink);
+}
+
+.panel[hidden] {
+  display: none;
+}
+
+.panelLink {
+  display: block;
+  padding: 0.55rem 1rem;
+  font-size: var(--text-small);
+  color: rgba(255, 255, 255, 0.86);
+  text-decoration: none;
+}
+
+.panelLink:hover,
+.panelLink:focus-visible {
+  color: var(--white);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* Mobile menu */
+.menuButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.5rem 0;
+  border: 0;
+  background: transparent;
+  color: var(--white);
+  font: inherit;
+  font-size: var(--text-nav);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.burger {
+  position: relative;
+  width: 22px;
+  height: 10px;
+}
+
+.burger i {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 1.5px;
+  background: currentColor;
+  transition: transform 0.3s var(--ease), top 0.3s var(--ease);
+}
+
+.burger i:first-child {
+  top: 0;
+}
+
+.burger i:last-child {
+  top: 8.5px;
+}
+
+.burgerOpen i:first-child {
+  top: 4.25px;
+  transform: rotate(45deg);
+}
+
+.burgerOpen i:last-child {
+  top: 4.25px;
+  transform: rotate(-45deg);
+}
+
+.drawer {
+  position: fixed;
+  inset: var(--header-h) 0 0 0;
+  z-index: -1;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  background: var(--ink);
+  padding: calc(var(--logo-overhang) + 2rem) var(--gutter) 3rem;
+}
+
+.drawer[hidden] {
+  display: none;
+}
+
+.drawerList {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 32rem;
+}
+
+.drawerList > li {
+  border-top: 1px solid rgba(255, 255, 255, 0.16);
+  padding-block: 0.9rem;
+}
+
+.drawerLink {
+  font-family: var(--font-head);
+  font-weight: 300;
+  font-size: var(--step-3);
+  line-height: 1.15;
+  color: var(--white);
+  text-decoration: none;
+}
+
+.drawerLink[aria-current='page'] {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
+.drawerSub {
+  list-style: none;
+  margin: 0.6rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.15rem;
+}
+
+.drawerSub a {
+  display: inline-block;
+  padding-block: 0.35rem;
+  color: rgba(255, 255, 255, 0.78);
+  text-decoration: none;
+}
+
+.drawerSub a:hover {
+  color: var(--white);
+}
+
+@media (min-width: 1024px) {
+  .desktopNav {
+    display: block;
+  }
+
+  .menuButton,
+  .drawer {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .logo,
+  .logo img,
+  .burger i,
+  .toggle svg,
+  .link {
+    transition: none;
+  }
+}
