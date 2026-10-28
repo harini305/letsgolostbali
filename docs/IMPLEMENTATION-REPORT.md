@@ -1,6 +1,6 @@
 # Phase 2 Implementation Report: Let's Get Lost Bali
 
-**Date:** 2026-10-28 (revised the same day: compact redesign) · **Status:** built and tested locally. Not committed, pushed or deployed.
+**Date:** 2026-10-28 · **Status:** deployed to production at https://letsgetlostbali.vercel.app (Vercel project `letsgetlostbali`, connected to GitHub `harini305/letsgolostbali`; pushes to `main` deploy automatically).
 **Stack:** Next.js 16.4 (App Router, JavaScript), React 19.3, GSAP 3.15 + ScrollTrigger, CSS Modules. No TypeScript, Tailwind, backend or database.
 
 This report is for the business owners and whoever maintains the site. Section 9 lists the decisions needed before launch.
@@ -243,3 +243,17 @@ A vector or dark logo (F1), video source files (F2: the six Squarespace videos, 
 - Dates and prices are written into the page files: `app/breathwork/page.js`, `app/yoga/page.js`, `app/reiki-and-circles/page.js` and the training index in `app/page.js`.
 - New images: add the source file to `scripts/optimize-images.mjs`, run `npm run images`, then use `<Picture name="…" alt="…" sizes="…" />`.
 - `next dev` writes an `AGENTS.md` file to the project root on every run. It is harmless and can be ignored.
+
+---
+
+## 11. Deployment and request budget
+
+- **Repository:** `docs/source-audit/original-assets/` (97 MB) and `docs/source-audit/screenshots/` (33 MB) are kept locally only (`.gitignore`). `scripts/optimize-images.mjs` needs those originals to regenerate images. `.vercelignore` also keeps `docs/` and `scripts/` out of the Vercel build.
+- **Images:** 160 WebP files (13 MB). 2400 px versions exist only for the three full-width photos; everything else stops at 1800 px. Unused image sets were removed. The site uses no local video (testimonials are YouTube, loaded on click).
+- **Fewer CDN requests:**
+  - All 18 internal links use `prefetch={false}`, so there's no viewport or hover prefetching.
+  - `/images`, `/textures` and `/brand` are served with `Cache-Control: public, max-age=31536000, immutable`. Regenerate a changed image under a new name.
+  - Fonts load the latin subset only.
+  - The "Find your path" explorer loads a practice's photo only when its tab is hovered, focused or selected.
+  - Measured on a local production build (`next start`): a full scroll of the home page makes 36 same-origin requests (12 JS, 3 fonts, 14 images, 5 theme files, 2 other), with 0 prefetch requests, 0 duplicates and 0 failures. A client-side navigation to /about makes 5.
+- **Verified after deploying:** all 7 routes return 200 publicly, redirects work, image cache headers are present, and audit documents are not served. Deployment-specific `*.vercel.app` URLs stay behind Vercel's default protection; the production domain is public.
